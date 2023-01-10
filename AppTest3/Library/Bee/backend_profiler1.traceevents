@@ -1,0 +1,539 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1669890108242014, "dur":1039, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108243057, "dur":122, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1669890108243195, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1669890108243212, "dur":453, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1669890108243690, "dur":374, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108244064, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108845595, "dur":1029, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846624, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846640, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846641, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846645, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846646, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846649, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846650, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846655, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846655, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846660, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846661, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846664, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846665, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846669, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846669, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846672, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846673, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846677, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846678, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846681, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846681, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846685, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846686, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846689, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846690, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846693, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846694, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846698, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846699, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846702, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846703, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846706, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846715, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108846722, "dur":4231, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1669890108243722, "dur":348, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108244071, "dur":3316, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108247388, "dur":8267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1669890108255658, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108255663, "dur":3176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1669890108258878, "dur":67776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Urdf.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108326657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108326661, "dur":3611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Urdf.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108330304, "dur":47541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108377848, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108377853, "dur":1986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108379936, "dur":22691, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108402632, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108402640, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108403943, "dur":27379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108431326, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108431333, "dur":8183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108439550, "dur":44951, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108484506, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108484515, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108486416, "dur":198438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108684860, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108684868, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108686543, "dur":65560, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108752106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669890108752110, "dur":601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669890108752732, "dur":92855, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108243726, "dur":350, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108244076, "dur":3289, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108247366, "dur":8339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1669890108255707, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108255782, "dur":2013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1669890108257835, "dur":1625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108259463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108259641, "dur":1572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108261253, "dur":13968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108275225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108275486, "dur":52056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108327578, "dur":32117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108359698, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108359704, "dur":1731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108361485, "dur":49817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108411306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108411311, "dur":2859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108414208, "dur":15228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108429447, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108429457, "dur":915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108430407, "dur":17339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108447749, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108447756, "dur":2289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108450086, "dur":18502, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108468615, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108468621, "dur":10690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108479356, "dur":63377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108542736, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108542742, "dur":13119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108556089, "dur":70668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108626760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108626765, "dur":932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108627734, "dur":50711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108678449, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108678455, "dur":1354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108679845, "dur":110562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/MessageGeneration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108790410, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669890108790415, "dur":825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/MessageGeneration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669890108791263, "dur":54340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669890108243757, "dur":330, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669890108244087, "dur":3299, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669890108247386, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1669890108247574, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669890108256495, "dur":170070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1669890108426615, "dur":104305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669890108530926, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669890108530935, "dur":1131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669890108532101, "dur":187318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669890108719421, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669890108719426, "dur":1152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669890108720607, "dur":124991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108243753, "dur":329, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108244082, "dur":3306, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108247389, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1669890108247529, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108252219, "dur":6290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1669890108258551, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1669890108258658, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108258871, "dur":68136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1669890108327058, "dur":16277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108343337, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108343342, "dur":1795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108345174, "dur":106470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108451647, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108451653, "dur":4114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108455804, "dur":16551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108472358, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108472363, "dur":6914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108479317, "dur":68225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108547547, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108547554, "dur":9367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108556970, "dur":762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Memory.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108557735, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108557761, "dur":990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Memory.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108558794, "dur":27633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108586431, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108586437, "dur":1510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108587986, "dur":38829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108626818, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108626824, "dur":1401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108628261, "dur":214272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108842536, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669890108842541, "dur":2980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669890108845544, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1669890108845545, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108243786, "dur":307, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108244093, "dur":3294, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108247387, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1669890108247603, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108261189, "dur":1582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1669890108262822, "dur":63726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108326554, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108326562, "dur":2361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108328966, "dur":14100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108343072, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108343082, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108344556, "dur":17985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108362544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108362549, "dur":788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108363368, "dur":17774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108381145, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108381150, "dur":10093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108391277, "dur":39656, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108430937, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108430944, "dur":6361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108437353, "dur":17883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108455240, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108455245, "dur":2133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108457412, "dur":14277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108471692, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108471697, "dur":7550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108479290, "dur":68309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108547602, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108547608, "dur":12955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108560602, "dur":58175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108618781, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108618786, "dur":1084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108619911, "dur":5229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Buffers.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108625144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108625150, "dur":1244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Buffers.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108626426, "dur":86854, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108713283, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669890108713289, "dur":2092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669890108715411, "dur":130262, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108243812, "dur":287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108244099, "dur":3265, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108247365, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1669890108247505, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108249079, "dur":7626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1669890108256790, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1669890108256896, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108256901, "dur":3645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1669890108260591, "dur":66042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108326636, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108326641, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108328943, "dur":14218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108343164, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108343169, "dur":1653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108344856, "dur":24284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108369145, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108369153, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108370038, "dur":36385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108406426, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108406431, "dur":2018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108408482, "dur":29427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108437912, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108437919, "dur":2045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108439999, "dur":19089, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108459091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108459097, "dur":4207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108463340, "dur":27579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108491072, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108491078, "dur":823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108491933, "dur":49666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108541603, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108541611, "dur":1161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108542821, "dur":14767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108557591, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108557600, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108558798, "dur":79006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108637810, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108637819, "dur":1377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108639237, "dur":150598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108789839, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669890108789852, "dur":1071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669890108790960, "dur":54713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669890108243863, "dur":245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669890108244108, "dur":3263, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669890108247373, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1669890108247592, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669890108257380, "dur":174128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1669890108431551, "dur":14599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669890108446154, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669890108446163, "dur":1115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669890108447313, "dur":94436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669890108541753, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669890108541759, "dur":8295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669890108550092, "dur":21051, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Numerics.Vectors.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669890108571148, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669890108571157, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Numerics.Vectors.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669890108572794, "dur":177402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669890108750216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669890108750222, "dur":1370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669890108751618, "dur":93984, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108243839, "dur":265, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108244104, "dur":3264, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108247369, "dur":8573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1669890108255944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108255948, "dur":1921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1669890108257907, "dur":32153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108290064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108290068, "dur":55637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108345759, "dur":14038, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108359800, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108359805, "dur":1139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108360974, "dur":73304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108434282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108434291, "dur":6028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108440360, "dur":26757, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108467120, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108467125, "dur":10201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108477365, "dur":107635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108585004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108585016, "dur":2582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108588410, "dur":114597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108703010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108703015, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669890108704414, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1669890108704450, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108704453, "dur":1306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1669890108705792, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669890108705828, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108705831, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669890108706884, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1669890108706991, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669890108706994, "dur":1185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1669890108708234, "dur":137354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108243888, "dur":224, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108244112, "dur":3270, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108247385, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1669890108247604, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108261339, "dur":2548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1669890108263927, "dur":25758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108289692, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108289803, "dur":38981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108328821, "dur":28909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108357736, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108357745, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108359011, "dur":37466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108396480, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108396486, "dur":3510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108400032, "dur":19070, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108419105, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108419111, "dur":1116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108420261, "dur":28286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108448550, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108448555, "dur":8348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108456941, "dur":36493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108493438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108493444, "dur":889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108494375, "dur":25042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Threading.Tasks.Extensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108519422, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108519430, "dur":1337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Threading.Tasks.Extensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108520801, "dur":102351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108623157, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108623165, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108624638, "dur":88432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/RosBridgeClient.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108713073, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669890108713079, "dur":1698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/RosBridgeClient.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669890108714812, "dur":130765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108243926, "dur":191, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108244117, "dur":3262, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108247379, "dur":8210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1669890108255592, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108255722, "dur":2410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1669890108258215, "dur":4373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3.exe" }}
+,{ "pid":12345, "tid":10, "ts":1669890108262591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108262595, "dur":1348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3.exe" }}
+,{ "pid":12345, "tid":10, "ts":1669890108263985, "dur":62578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108326567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108326572, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108328799, "dur":16379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108345182, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108345207, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108346943, "dur":26254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108373201, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108373208, "dur":3667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108376911, "dur":39240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108416155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108416162, "dur":1585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108417785, "dur":14970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108432758, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108432763, "dur":12032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108444901, "dur":66228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108511133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108511139, "dur":12073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108523248, "dur":153462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108676716, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108676727, "dur":1311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108678075, "dur":27899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Microsoft.Bcl.AsyncInterfaces.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108705978, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669890108705984, "dur":1260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Microsoft.Bcl.AsyncInterfaces.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669890108707277, "dur":138318, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108243951, "dur":170, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108244121, "dur":3268, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108247390, "dur":8052, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1669890108255446, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108255452, "dur":3053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1669890108258553, "dur":129597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108388155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108388166, "dur":1720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108389920, "dur":14520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108404443, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108404450, "dur":1198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108405681, "dur":52240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108457924, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108457930, "dur":5282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108463262, "dur":119401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108582668, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108582677, "dur":1328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108584045, "dur":163966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108748024, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669890108748030, "dur":1942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669890108750001, "dur":95585, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108243972, "dur":154, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108244126, "dur":3250, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108247379, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1669890108247570, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108252583, "dur":5564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1669890108258201, "dur":2814, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1669890108261017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108261020, "dur":1643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1669890108262702, "dur":63861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108326566, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108326572, "dur":3341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108329944, "dur":13526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108343473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108343478, "dur":1732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108345246, "dur":105228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108450477, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108450504, "dur":4555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108455094, "dur":14936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108470033, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108470038, "dur":5917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108476004, "dur":34281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108510289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108510296, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108511373, "dur":41272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Text.Encodings.Web.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108552649, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108552656, "dur":3363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Text.Encodings.Web.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108556058, "dur":69815, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108625876, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108625881, "dur":1179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108627092, "dur":69431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/Newtonsoft.Json.Bson.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108696529, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108696537, "dur":1347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/Newtonsoft.Json.Bson.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669890108697921, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":12, "ts":1669890108697958, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108698019, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":12, "ts":1669890108699048, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1669890108699081, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108699085, "dur":1423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1669890108700540, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1669890108700653, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108700658, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1669890108701762, "dur":707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1669890108702472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108702476, "dur":949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1669890108703459, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1669890108703492, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108703495, "dur":799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1669890108704327, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1669890108704363, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108704366, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1669890108705422, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1669890108705458, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108705463, "dur":1100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1669890108706598, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1669890108706635, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669890108706643, "dur":1426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1669890108708104, "dur":137478, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108243994, "dur":136, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108244130, "dur":3255, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108247386, "dur":8581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1669890108255970, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108255975, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1669890108257882, "dur":12737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108270624, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108326443, "dur":6126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108332607, "dur":47964, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108380574, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108380579, "dur":1302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108381914, "dur":14872, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108396789, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108396794, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108397825, "dur":13599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108411427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108411433, "dur":2692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108414163, "dur":25882, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108440048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108440054, "dur":722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108440808, "dur":24569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108465381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108465388, "dur":9777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108475205, "dur":23328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108498538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108498545, "dur":1137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108499716, "dur":38003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Threading.Channels.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108537725, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108537734, "dur":1100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Threading.Channels.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108538872, "dur":47332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108586208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108586214, "dur":954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108587212, "dur":144287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108731504, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669890108731512, "dur":2287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669890108733825, "dur":111769, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669890108244058, "dur":8, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669890108244066, "dur":3290, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669890108247364, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1669890108247367, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669890108247498, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1669890108247502, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669890108248116, "dur":4764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1669890108252885, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1669890108253009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669890108253055, "dur":255964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1669890108509077, "dur":91117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Text.Json.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669890108600200, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669890108600210, "dur":17623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Text.Json.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669890108617878, "dur":94777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669890108712682, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669890108712690, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669890108714779, "dur":130802, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108244015, "dur":119, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108244134, "dur":3226, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108247372, "dur":26627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1669890108274003, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108327100, "dur":948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1669890108328095, "dur":83680, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108411779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108411784, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108414260, "dur":17549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108431812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108431817, "dur":7181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108439034, "dur":14587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108453625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108453631, "dur":3594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108457262, "dur":27814, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108485080, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108485087, "dur":1479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108486601, "dur":131279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108617884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108617891, "dur":1697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108619625, "dur":94824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108714457, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669890108714464, "dur":1310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669890108715805, "dur":129787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108244038, "dur":100, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108244138, "dur":3229, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108247368, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1669890108247529, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108249043, "dur":6610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1669890108255702, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1669890108255953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108255957, "dur":71603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1669890108327606, "dur":15679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108343288, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108343293, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108345154, "dur":32662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108377820, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108377828, "dur":2417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108380271, "dur":13903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108394178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108394186, "dur":1291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108395514, "dur":14904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108410421, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108410429, "dur":958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108411424, "dur":36963, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108448390, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108448396, "dur":9269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108457702, "dur":31840, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108489547, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108489554, "dur":1563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108491185, "dur":225401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles app/rosbridge_2/AppTest3_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108716588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669890108716593, "dur":2192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"app/rosbridge_2/AppTest3_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669890108718809, "dur":126770, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669890108852419, "dur":1355, "ph":"X", "name": "ProfilerWriteOutput" }
+,
